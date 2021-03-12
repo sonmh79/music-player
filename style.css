@@ -1,0 +1,13 @@
+@import "main-components/screen.css";
+@import "main-components/top-btn.css";
+@import "first-screen/album-box.css";
+@import "first-screen/music-list.css";
+@import "second-screen/play-screen.css";
+* {
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  background-color: gainsboro;
+  justify-content: center;
+}
